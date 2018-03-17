@@ -1,0 +1,10 @@
+{
+    "name": "alex/basicstuff",
+    "authors": [
+        {
+            "name": "alex",
+            "email": "alex.rigg@quadrotech-it.com"
+        }
+    ],
+    "require": {}
+}
